@@ -8,7 +8,7 @@ I am currently a student studying Business Analytics at the University of Iowa's
 
 
 
-### Table of Contents
+# Table of Contents
 
 1. [Project Title](#Project-Title)
 2. [Description](#Description)
@@ -21,6 +21,8 @@ I am currently a student studying Business Analytics at the University of Iowa's
 
 
 # Project Title 
+
+***Hello World Sample***
 
 # Description 
 
