@@ -26,6 +26,8 @@ I am currently a student studying Business Analytics at the University of Iowa's
 
 # Description 
 
+Practice using GitHub by creating a sample repository 
+
 # How to Run Program
 
 # Files Used 
